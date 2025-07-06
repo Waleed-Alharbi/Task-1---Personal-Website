@@ -10,7 +10,3 @@ This is my personal website project, created with HTML and CSS. It showcases my 
 - Contact information
 - Responsive layout
 - Image gallery with side-by-side display
-
-## 📂 Project Structure
-
-
